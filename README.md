@@ -1,2 +1,2 @@
-# grpc-server
-sample grpc-server
+# grpc-client
+sample grpc-client
